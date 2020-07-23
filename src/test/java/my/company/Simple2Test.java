@@ -7,7 +7,7 @@ import static io.qameta.allure.Allure.step;
 /**
  * @author baev (Dmitry Baev)
  */
-public class SimpleTest2 {
+public class Simple2Test {
 
     @Test
     public void simpleTest2() {
